@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+}
+
+.random-image {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
